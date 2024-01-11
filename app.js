@@ -30,6 +30,8 @@ app.use('/get-data',async (req,res,next)=>{
 
 console.log("helloworld")
 console.log("helloworld")
+console.log("helloworld")
+console.log("helloworld")
 
 
 app.listen(3001,()=>{
