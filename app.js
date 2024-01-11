@@ -28,6 +28,9 @@ app.use('/get-data',async (req,res,next)=>{
 })
 
 
+console.log("helloworld")
+
+
 app.listen(3001,()=>{
     console.log("server is connected")
 })
